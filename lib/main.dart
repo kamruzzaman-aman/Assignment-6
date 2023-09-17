@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
       'photoURL':
           'https://t3.ftcdn.net/jpg/05/66/82/02/360_F_566820278_N8xRuEKEdFsCJpywmSg1TmFdCDNo2jkn.jpg',
       'photoName': 'Photo 4',
-      'description': 'Description for Photo 5'
+      'description': 'Description for Photo 4'
     },
     {
       'photoURL': 'https://a-z-animals.com/media/2018/09/Parrot-lovebirds.jpg',
