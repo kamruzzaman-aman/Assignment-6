@@ -1,16 +1,10 @@
-# ostad_my_app
+# Module - 6 (Assignments - 6)
 
-A new Flutter project.
+## screenshots of the whole app
+![photo 1](https://github.com/kamruzzaman-aman/Assignment-6/assets/17810615/9c98d0d9-6e7f-45c2-8e2f-7cec301b797f)
 
-## Getting Started
+##When click on Images
+![photo 2](https://github.com/kamruzzaman-aman/Assignment-6/assets/17810615/3361451c-6eae-4808-8e52-caaf09208aae)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##When click on Upload button
+![photo 3](https://github.com/kamruzzaman-aman/Assignment-6/assets/17810615/3b688089-1d12-43c6-8164-73f7e0d564ed)
